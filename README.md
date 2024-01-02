@@ -8,7 +8,7 @@
 
 	
 	--> Installing Burp Suite Professional in Windows 
-[![Installing Burp Suite Professional in Windows for Free](https://img.youtube.com/vi/j1AKdSYL6wE/0.jpg)](https://www.youtube.com/watch?v=j1AKdSYL6wE)
+[![Installing Burp Suite Professional in Windows for Free](https://media.discordapp.net/attachments/1186880577408880733/1186881491314167908/Installing_Burp_Suite_Pro_in_Windows.mp4?ex=659e1706&is=658ba206&hm=44c85f2cedee211eb9adf4fe15f4b194b09d1bf1370cf50b36c6e3e7fc07bb65&format=jpeg&width=1100&height=618)](https://discord.com/channels/1186880576972660806/1186880577408880733/1186881491909742724)
 
 
 	--> Introduction to Burp Suite Professional
