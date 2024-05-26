@@ -1,6 +1,7 @@
 # Burp-Suite-Pro
-	--> Get required files and Videos on Website below, or on Link Mentioned in About Section towards Right Side.
-					https://sites.google.com/view/pentesting-club/home
+	--> Check latest release.
+ 	--> Get required files and Videos on Website below, or on Link Mentioned in About Section on Right Side.
+			https://sites.google.com/view/pentesting-club/home
 -----------------------------------------------------------------------------------------------------------------
 # Videos For further Reference 	
 	--> Android SSL Pinning Bypass with Frida 
