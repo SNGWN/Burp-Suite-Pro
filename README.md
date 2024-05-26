@@ -3,12 +3,8 @@
 					https://sites.google.com/view/pentesting-club/home
 -----------------------------------------------------------------------------------------------------------------
 # Videos For further Reference 	
-	--> Installing Burp Suite Professional in Kali Linux 
-[![Installing Burp Suite Professional in Kali Linux for Free](https://img.youtube.com/vi/N0KQrk77BBo/0.jpg)](https://www.youtube.com/watch?v=N0KQrk77BBo)
-
-	
-	--> Installing Burp Suite Professional in Windows 
-[![Installing Burp Suite Professional in Windows for Free](https://media.discordapp.net/attachments/1186880577408880733/1186881491314167908/Installing_Burp_Suite_Pro_in_Windows.mp4?ex=659e1706&is=658ba206&hm=44c85f2cedee211eb9adf4fe15f4b194b09d1bf1370cf50b36c6e3e7fc07bb65&format=jpeg&width=1100&height=618)](https://discord.com/channels/1186880576972660806/1186880577408880733/1186881491909742724)
+	--> Android SSL Pinning Bypass with Frida 
+[![Android SSL Pinning Bypass with Frida](https://img.youtube.com/vi/SXtiVN7Trtw/0.jpg)](https://www.youtube.com/watch?v=SXtiVN7Trtw)
 
 
 	--> Introduction to Burp Suite Professional
